@@ -1,8 +1,19 @@
+## wifi
+
+One Ocean
+beach1601
+
+---
+
 ### Hello
 
 Micah Woods
 
-@mwoods79
+@mwoods79 - github - twitter
+
+---
+
+### Salesforce
 
 ---
 
@@ -20,7 +31,7 @@ Jax.ex
 
 ---
 
-Open CLI Framework
+[Open CLI Framework](https://oclif.io)
 
 ---
 
@@ -68,21 +79,13 @@ oclif makes it easy for you to build CLIs for your company, service, or your own
 
 ---
 
-### oclif single commands
-
-```
-ls
-cat
-```
-
----
-
 ### generates documentation
 
 ```
 heroku help apps
 heroku apps --help
 heroku apps -h
+heroku apps help
 ```
 
 ---
@@ -92,6 +95,15 @@ heroku apps -h
 ```
 yarn test
 npm test
+```
+
+---
+
+### oclif single commands
+
+```
+ls
+cat
 ```
 
 ---
@@ -147,8 +159,12 @@ yarn add @oclif/plugin-plugins
 
 ---
 
+### why node?
+
+---
+
 ### workshop time
 
 ---
 
-https://github.com/mwoods79/gub
+[todo](https://github.com/mwoods79/todo-cli)
